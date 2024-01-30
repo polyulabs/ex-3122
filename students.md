@@ -70,3 +70,7 @@ I am CHAN Kwun Wai
 
 [My Github account](https://github.com/ckw-polyu)
 
+## [XU Rongjie]
+I am XU Rongjie
+
+[My Github account](http://www.github.com/gg11365)
