@@ -11,6 +11,12 @@
 
 === Copy the above template and paste below and edit it ===
 
+## [LEUNG Ka Lik]
+I am Alex Leung. Nice to meet you.
+
+[My Github account](http://www.github.com/less2771/)
+
+
 ## [Kanokkorn Panatte]
 I am Kanokkorn Panatte. 
 
@@ -24,10 +30,24 @@ I am Jeffrey.
 
 =======
 
-## [Ng Kai Tin]
-[Hello]
+## [Fung Matthew Tze Ken]
+Hello everyone 👋, my name is Matthew.
 
-[My Github account](http://www.github.com/put-your-github-username-here/)
+[My Github account](https://github.com/Generic626/)
+
+
+## Li Cheuk Yin
+I am Li Cheuk Yin
+
+[My Github account](https://github.com/TomLi0421)
+
+[Include the link of you Github page here using the syntax shown above]
+
+
+## [Chow Sing Yeung]
+[Hello guys]
+
+[My Github account](https://github.com/ChowSingYeung)
 
 [Include the link of you Github page here using the syntax shown above]
 
@@ -38,10 +58,12 @@ I am Leung Yan Kit.
 
 [My Github account](http://www.github.com/ivanLeung-18)
 
+
 ## [Cheung Tsun Kit]
 I am Cheung Tsun Kit. 
 
 [My Github account](https://github.com/22029144d)
+
 
 ## [CHAN Kwun Wai]
 I am CHAN Kwun Wai
