@@ -70,3 +70,8 @@ I am CHAN Kwun Wai
 
 [My Github account](https://github.com/ckw-polyu)
 
+## [CHAN Yuen Ho]
+I am CHAN Yuen Ho
+
+[My Github account](https://github.com/EddyChan1129/)
+
