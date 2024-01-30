@@ -25,3 +25,10 @@ I am Kanokkorn Panatte.
 [Include the link of you Github page here using the syntax shown above]
 
 === Do not modify the content above===
+
+## [Lam Yu Hin]
+[Hi]
+
+[My Github account](https://github.com/LAMYUHIN)
+
+[Include the link of you Github page here using the syntax shown above]
