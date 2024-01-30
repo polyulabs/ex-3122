@@ -11,7 +11,11 @@
 
 === Copy the above template and paste below and edit it ===
 
-## [Kanokkorn Panatte]
-I am Kanokkorn Panatte. 
+## Lui Chi Yin
+I am Lui Chi Yin.
 
-[My Github account](https://github.com/madisunleung/)
+[My Github account](http://www.github.com/happytommy123)
+
+[Include the link of you Github page here using the syntax shown above]
+
+=== Do not modify the content above===
