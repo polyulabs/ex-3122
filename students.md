@@ -17,6 +17,7 @@ I am Kanokkorn Panatte.
 [My Github account](https://github.com/madisunleung/)
 
 
+
 ## [Ng Kai Tin]
 [Hello]
 
@@ -25,3 +26,11 @@ I am Kanokkorn Panatte.
 [Include the link of you Github page here using the syntax shown above]
 
 === Do not modify the content above===
+
+
+
+## [Leung Yan Kit]
+I am Leung Yan Kit.
+
+[My Github account](http://www.github.com/ivanLeung-18)
+
