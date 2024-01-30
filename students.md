@@ -15,3 +15,9 @@
 I am Kanokkorn Panatte. 
 
 [My Github account](https://github.com/madisunleung/)
+
+## Leung Yan Kit
+I am Leung Yan Kit.
+
+[My Github account](http://www.github.com/ivanLeung-18)
+
