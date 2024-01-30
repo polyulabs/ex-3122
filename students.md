@@ -11,6 +11,11 @@
 
 === Copy the above template and paste below and edit it ===
 
+## Lui Chi Yin
+I am Lui Chi Yin.
+
+[My Github account](http://www.github.com/happytommy123)
+=======
 ## [LEUNG Ka Lik]
 I am Alex Leung. Nice to meet you.
 
@@ -52,6 +57,7 @@ I am Li Cheuk Yin
 [Include the link of you Github page here using the syntax shown above]
 
 === Do not modify the content above===
+=======
 
 ## [Leung Yan Kit]
 I am Leung Yan Kit.
@@ -69,4 +75,3 @@ I am Cheung Tsun Kit.
 I am CHAN Kwun Wai
 
 [My Github account](https://github.com/ckw-polyu)
-
