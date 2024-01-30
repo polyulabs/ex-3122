@@ -33,6 +33,7 @@ I am Jeffrey.
 [My Github account](https://github.com/jeffreyleett)
 
 
+
 =======
 
 ## [Fung Matthew Tze Ken]
@@ -70,6 +71,10 @@ I am Cheung Tsun Kit.
 
 [My Github account](https://github.com/22029144d)
 
+## [Fung Shing Hin]
+I am Fung Shing Hin
+
+[My Github account](https://github.com/Samfung0612)
 
 ## [CHAN Kwun Wai]
 I am CHAN Kwun Wai
