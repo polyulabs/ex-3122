@@ -11,6 +11,12 @@
 
 === Copy the above template and paste below and edit it ===
 
+## [LEUNG Ka Lik]
+I am Alex Leung. Nice to meet you.
+
+[My Github account](http://www.github.com/less2771/)
+
+
 ## [Kanokkorn Panatte]
 I am Kanokkorn Panatte. 
 
