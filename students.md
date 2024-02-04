@@ -75,3 +75,8 @@ I am Cheung Tsun Kit.
 I am CHAN Kwun Wai
 
 [My Github account](https://github.com/ckw-polyu)
+
+## [FONG Tsz Chung Peter]
+I am Peter Fong.
+
+[My Github account](https://github.com/chungfg)
