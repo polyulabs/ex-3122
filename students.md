@@ -75,3 +75,8 @@ I am Cheung Tsun Kit.
 I am CHAN Kwun Wai
 
 [My Github account](https://github.com/ckw-polyu)
+
+## [Lee Wai Yee]
+I am Lee Wai Yee
+
+[My Github account](https://github.com/22035109d)
