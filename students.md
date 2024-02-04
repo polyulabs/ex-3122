@@ -11,7 +11,7 @@
 
 === Copy the above template and paste below and edit it ===
 
-## [Kanokkorn Panatte]
+## [Tang Ka Wai]
 I am Tang Ka Wai. 
 
 [My Github account](https://github.com/Kiawaik)
