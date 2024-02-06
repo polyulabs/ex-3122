@@ -81,3 +81,8 @@ I am CHAN Kwun Wai
 Hello! I am Chen Man Hei. You can call me Tony.
 
 [My Github account](https://github.com/ChenManHei)
+
+## Wong Yau Chuen
+Hello! I am Wong Yau Chuen, Gordon.
+
+[My Github account](https://github.com/Chuenpoly)
