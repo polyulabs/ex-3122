@@ -11,6 +11,13 @@
 
 === Copy the above template and paste below and edit it ===
 
+## Lee Hoi Lam
+Hello, I am Lee Hoi Lam. You can call me Crystal~
+
+[My Github account](https://github.com/CLee788)
+
+[My Github page](https://github.com/polyulabs/starterv2-CLee788)
+
 ## Lui Chi Yin
 I am Lui Chi Yin.
 
